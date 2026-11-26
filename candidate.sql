@@ -1,1 +1,1 @@
-select concat('Hello', ' World') from dual
+select 'Hello World' from dual
