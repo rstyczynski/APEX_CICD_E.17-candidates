@@ -1,1 +1,1 @@
-select 'baseline' from dual
+select concat('Hello', ' World') from dual
